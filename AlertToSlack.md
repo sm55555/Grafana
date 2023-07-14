@@ -37,5 +37,12 @@ template 예제
 
 <img width="507" alt="image" src="https://github.com/sm55555/Grafana/assets/38831314/bdcbfdab-0f6d-44cb-9471-e11f2853ea88">
 
+### Alert Rule
+
+![image](https://github.com/sm55555/Grafana/assets/38831314/a9656553-5b80-4cce-aa41-cd3ce58e7664)
+
+
+
+
 
 
