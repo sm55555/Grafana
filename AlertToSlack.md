@@ -15,8 +15,12 @@ Annotations:
 Source: http://172.0.0.0:3000/alerting/grafana/OdULVlrVz/view
 ```
 
-```
+여기서 필요한 데이터는 labels 안에 있는것들
+
+
 template 예제
+```yaml
+
 
 {{ define "test-template"}}
 {{ range .Alerts }}
