@@ -33,6 +33,8 @@ template 예제
 
 ### Contact points Template 넣기
 
+하단에 있는 mymessage에 template를 적용하면 된다.
+
 <img width="507" alt="image" src="https://github.com/sm55555/Grafana/assets/38831314/bdcbfdab-0f6d-44cb-9471-e11f2853ea88">
 
 
