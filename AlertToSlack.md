@@ -2,3 +2,10 @@
 
 
 #### 2. Alerting 만들기 Alert rules, Contact points
+
+
+```
+template 예제
+
+
+```
