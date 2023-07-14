@@ -30,3 +30,10 @@ template 예제
 {{ end}}
 
 ```
+
+### Contact points Template 넣기
+
+<img width="507" alt="image" src="https://github.com/sm55555/Grafana/assets/38831314/bdcbfdab-0f6d-44cb-9471-e11f2853ea88">
+
+
+
